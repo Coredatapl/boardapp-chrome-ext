@@ -1,0 +1,14 @@
+{
+  "name": "boardapp-chrome-ext",
+  "description": "This extension overrides the new tab content and launches Board App instead of a default empty page.",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "glob": "8.1.0"
+  }
+}
