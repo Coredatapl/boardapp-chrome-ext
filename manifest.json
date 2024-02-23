@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Board App Extension",
-  "description": "This extension overrides the new tab content and launches Board App instead of a default empty page.",
-  "version": "1.0.0",
+  "description": "This extension overrides the new tab content providing additional features instead of a default empty page.",
+  "version": "1.0.1",
   "author": {
     "email": "hello@coredata.pl"
   },
