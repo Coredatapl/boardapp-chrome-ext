@@ -1,7 +1,7 @@
 {
   "name": "boardapp-chrome-ext",
   "description": "This extension overrides the new tab content providing additional features instead of a default empty page.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "scripts": {
     "build": "webpack"

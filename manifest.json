@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Board App Extension",
-  "description": "Simple start page with url shortcuts, todo list and web search function.",
-  "version": "1.0.1",
+  "description": "Extended start page with improved search functionality and better organization of shortcuts to increase your productivity.",
+  "version": "1.0.3",
   "author": {
     "email": "hello@coredata.pl"
   },
