@@ -1,0 +1,1 @@
+var e=`Bestätigen`,t=`Abbrechen`,n={confirmLabel:e,cancelLabel:t};export{t as cancelLabel,e as confirmLabel,n as default};

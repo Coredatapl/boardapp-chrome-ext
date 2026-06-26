@@ -1,0 +1,1 @@
+var e=`Notificaciones`,t=`Aún no hay notificaciones`,n=`Eliminar notificaciones leídas`,r={header:e,noItems:t,removeRead:n};export{r as default,e as header,t as noItems,n as removeRead};

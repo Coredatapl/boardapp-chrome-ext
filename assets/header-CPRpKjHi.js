@@ -1,0 +1,1 @@
+var e=`Notifiche`,t=`Todo`,n=`Impostazioni`,r={notifications:e,todo:t,settings:n};export{r as default,e as notifications,n as settings,t as todo};

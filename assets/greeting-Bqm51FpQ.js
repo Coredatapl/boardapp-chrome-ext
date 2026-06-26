@@ -1,0 +1,1 @@
+var e=`Bentornato, {{name}}!`,t={welcome:e};export{t as default,e as welcome};

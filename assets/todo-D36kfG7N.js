@@ -1,0 +1,1 @@
+var e=`Todo`,t=`Noch keine Todo-Einträge`,n=`Erledigte Einträge entfernen`,r=`Neuer Todo-Eintrag erstellt`,i=`Aufgabe hinzufügen …`,a={header:e,noItems:t,removeDoneLabel:n,notificationLabel:r,addPlaceholder:i};export{i as addPlaceholder,a as default,e as header,t as noItems,r as notificationLabel,n as removeDoneLabel};

@@ -1,0 +1,1 @@
+var e=`Todo`,t=`Pas encore de tâches à faire`,n=`Supprimer les tâches terminées`,r=`Nouvelle tâche créée`,i=`Ajouter une tâche …`,a={header:e,noItems:t,removeDoneLabel:n,notificationLabel:r,addPlaceholder:i};export{i as addPlaceholder,a as default,e as header,t as noItems,r as notificationLabel,n as removeDoneLabel};

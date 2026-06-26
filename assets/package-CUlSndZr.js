@@ -1,0 +1,1 @@
+var e=`2.0.0`;export{e as version};

@@ -1,0 +1,1 @@
+var e=`Powiadomienia`,t=`Brak nowych powiadomień`,n=`Usuń przeczytane powiadomienia`,r={header:e,noItems:t,removeRead:n};export{r as default,e as header,t as noItems,n as removeRead};

@@ -1,0 +1,1 @@
+var e=`Confirmar`,t=`Cancelar`,n={confirmLabel:e,cancelLabel:t};export{t as cancelLabel,e as confirmLabel,n as default};
