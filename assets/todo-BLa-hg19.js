@@ -1,1 +1,0 @@
-var e=`Todo`,t=`Brak zadań do zrobienia`,n=`Usuń ukończone zadania`,r=`Utworzono nowe zadanie`,i=`Dodaj zadanie …`,a={header:e,noItems:t,removeDoneLabel:n,notificationLabel:r,addPlaceholder:i};export{i as addPlaceholder,a as default,e as header,t as noItems,r as notificationLabel,n as removeDoneLabel};

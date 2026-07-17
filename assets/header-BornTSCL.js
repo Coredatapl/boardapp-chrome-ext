@@ -1,1 +1,0 @@
-var e=`Notificaciones`,t=`Todo`,n=`Ajustes`,r={notifications:e,todo:t,settings:n};export{r as default,e as notifications,n as settings,t as todo};

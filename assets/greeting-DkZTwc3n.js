@@ -1,1 +1,0 @@
-var e=`Willkommen zurück, {{name}}!`,t={welcome:e};export{t as default,e as welcome};

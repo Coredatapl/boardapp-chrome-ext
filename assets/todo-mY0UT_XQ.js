@@ -1,1 +1,0 @@
-var e=`Todo`,t=`Ancora nessun elemento da fare`,n=`Rimuovi elementi completati`,r=`Nuovo elemento da fare creato`,i=`Aggiungi un'attività …`,a={header:e,noItems:t,removeDoneLabel:n,notificationLabel:r,addPlaceholder:i};export{i as addPlaceholder,a as default,e as header,t as noItems,r as notificationLabel,n as removeDoneLabel};
