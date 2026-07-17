@@ -1,1 +1,0 @@
-var e=`Conferma`,t=`Annulla`,n={confirmLabel:e,cancelLabel:t};export{t as cancelLabel,e as confirmLabel,n as default};

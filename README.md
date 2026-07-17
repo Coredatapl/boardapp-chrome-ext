@@ -1,6 +1,6 @@
 # Board App Extension
 
-![""](./img/icons/symbol192.png)
+![""](./symbol.png)
 
 ## Google Chrome extension
 

@@ -1,1 +1,0 @@
-var e=`Notifications`,t=`Pas encore de notifications`,n=`Supprimer les notifications lues`,r={header:e,noItems:t,removeRead:n};export{r as default,e as header,t as noItems,n as removeRead};

@@ -1,1 +1,0 @@
-var e=`Todo`,t=`Aún no hay tareas pendientes`,n=`Eliminar tareas completadas`,r=`Nueva tarea pendiente creada`,i=`Añadir una tarea …`,a={header:e,noItems:t,removeDoneLabel:n,notificationLabel:r,addPlaceholder:i};export{i as addPlaceholder,a as default,e as header,t as noItems,r as notificationLabel,n as removeDoneLabel};

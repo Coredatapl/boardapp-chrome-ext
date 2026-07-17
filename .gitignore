@@ -26,11 +26,14 @@ yarn-error.log*
 commit.sh
 
 # generated app code
+/assets
+/css
 /img
 /static
-apple-icon.png
+background.js
 asset-manifest.json
 favicon.ico
 handlers.js
+preview.js
 index.html
 robots.txt
